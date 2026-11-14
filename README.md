@@ -1,4 +1,4 @@
-# The Freedom Ride, 1965 — Case 37
+# The Freedom Ride, 1965 — Case 12
 
 A History Case File from *Reopen the Record: Australian Histories*. Year 10. Draft, pending consultation with Aboriginal communities of the towns visited in 1965, especially Moree and Walgett, and those they name, and with AIATSIS guidance.
 
