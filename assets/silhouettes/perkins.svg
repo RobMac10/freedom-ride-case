@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" role="img" aria-labelledby="t d">
+  <title id="t">Silhouette name card for Charles Perkins</title>
+  <desc id="d">A plain mid-century-style silhouette of a head and shoulders, with a name card. This is not a portrait or a likeness of Charles Perkins.</desc>
+  <rect width="300" height="400" fill="#f7f0e3"/>
+  <rect x="18" y="18" width="264" height="364" fill="none" stroke="#c9a96a" stroke-width="2"/>
+  
+  <ellipse cx="150" cy="120" rx="40" ry="52" fill="#2b221c"/>
+  <rect x="136" y="160" width="28" height="40" fill="#2b221c"/>
+  <path d="M60 340 L70 230 C90 200, 120 190, 136 200 L164 200 C180 190, 210 200, 230 230 L240 340 Z" fill="#2b221c"/>
+  <path d="M150 200 L130 275 L150 268 L170 275 Z" fill="#f7f0e3"/>
+
+  <rect x="40" y="348" width="220" height="26" fill="#fffaf2" stroke="#3a2a1c" stroke-width="1"/>
+  <text x="150" y="366" text-anchor="middle" font-family="Georgia, Times, serif" font-style="italic" font-size="15" fill="#2b221c">Charles Perkins</text>
+</svg>
