@@ -8,6 +8,8 @@
 <meta name="robots" content="noindex,nofollow">
 <link rel="stylesheet" href="assets/style.css">
 
+  <link rel="stylesheet" href="assets/image-fit.css">
+  <link rel="stylesheet" href="assets/place-time.css">
 <style id="imagined-badge-css">
 .imagined-badge{display:flex;flex-wrap:wrap;align-items:center;gap:.3rem .55rem;box-sizing:border-box;max-width:100%;margin:0 0 1rem;padding:.5rem .8rem;border:1.5px dashed rgba(60,50,40,.55);border-radius:12px;background:rgba(255,252,244,.92);color:#3d342b;font-family:inherit;line-height:1.35}
 .imagined-badge .ib-icon{flex:0 0 auto;width:22px;height:22px}
@@ -128,7 +130,21 @@
       <p>Some 1965 records, and some later interviews, use racist language. This file does not repeat slurs on the student pages. A short extract from the 1955 Moree baths rule is in Super Sleuths, clearly attributed, with a content note. It is not the language of this case file.</p>
     </div>
 
-    <article class="witness" id="witness-perkins">
+    
+
+    <section class="place-time" data-place-time="freedom-ride" aria-label="Place and time">
+      <h3>Place and time</h3>
+      <p class="pt-lead"></p>
+      <div class="pt-mapcard"></div>
+      <p class="pt-maplbl" aria-live="polite"></p>
+      <div class="pt-ctl">
+        <button type="button" class="pt-play">▶ Play</button>
+        <input type="range" min="0" max="1" value="0">
+      </div>
+      <ol class="pt-tl" aria-label="Timeline of places and dates in this file"></ol>
+    </section>
+
+<article class="witness" id="witness-perkins">
       <div class="witness-grid">
         <figure>
           <button type="button" class="portrait-zoom">
@@ -408,5 +424,7 @@
 </div>
 
 <script src="assets/app.js"></script>
+<script src="assets/place-time.js"></script>
+
 </body>
 </html>
